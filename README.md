@@ -97,7 +97,7 @@ Learn how to set up a Unichain node
   ```
 - Check OP Node Logs
   ```
-  docker-compose logs -f [Your OP Node TAG]
+  docker logs -f [Your OP Node TAG]
   ```
   
   or
@@ -107,7 +107,7 @@ Learn how to set up a Unichain node
   ```
 - Check Execution Client Logs
   ```
-  docker-compose logs -f [Your Execution Client TAG]
+  docker logs -f [Your Execution Client TAG]
   ```
   
   or
